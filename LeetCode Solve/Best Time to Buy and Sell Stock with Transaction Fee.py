@@ -18,6 +18,8 @@
 # Input: prices = [1,3,7,5,10,3], fee = 3
 # Output: 6
 
+# Solution: Accepted
+
 def maxProfit(prices, fee):
     n = len(prices)
     if n < 2:

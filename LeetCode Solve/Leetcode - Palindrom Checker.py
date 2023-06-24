@@ -18,6 +18,8 @@ print(check_palindrome("A man, a plan, a canal: Panama"))
 
 # Solution 2 Accepted
 
+# Solution: Accepted
+
 
 def isPalindrome(s):
     return s == s[::-1]

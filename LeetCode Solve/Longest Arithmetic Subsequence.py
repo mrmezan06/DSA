@@ -19,6 +19,7 @@
 # Input: nums = [20,1,15,3,10,5,8]
 # Output: 4
 # Explanation:  The longest arithmetic subsequence is [20,15,10,5].
+# Solution: Accepted
 
 def longestArithSeqLength(nums):
     n = len(nums)

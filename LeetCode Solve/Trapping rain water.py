@@ -3,7 +3,7 @@
 # Sample output: 2
 # Sample input: 3, 0, 1, 2, 5
 # Sample output: 6
-
+# Solution: Accepted
 def trap_rain_water(a):
     n = len(a)
     left = [0] * n
