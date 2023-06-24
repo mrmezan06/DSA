@@ -21,6 +21,12 @@ def palindrome(s, start, end):
         return False
     return palindrome(s, start+1, end-1)
 
+# Solution 3 Non-recursive way
+
+
+def isPalindrome(s):
+    return s == s[::-1]
+
 
 print(palindrome("ABCBA", 0, 4))
 print(check_palindrome("ABCDA"))
