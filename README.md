@@ -15,8 +15,13 @@ Note: All the data structure are implemented in Python.
   7. Sum of Digit
 
 - Array
-  1.  Leader in an array
-  2.  Reverse an array
-  3.  Rotate an array
-  4.  Stock buy and sell
-  5.  Trapping rainwater
+
+  1. Leader in an array
+  2. Reverse an array
+  3. Rotate an array
+  4. Stock buy and sell
+  5. Trapping rainwater
+  6. Maximum k Consecutive Elements Sum
+  7. Prefix Sum Problem 1
+  8. Prefix Sum Problem 2
+  9. Prefix Sum Problem 3
